@@ -1,0 +1,22 @@
+.background{
+    background-image:url("watercolor-oil-painting-background_52683-106439.avif");
+    background-size:cover;
+    background-position:center;
+    }
+    h1{
+    color:white;
+    font-size:70;
+    }
+    #MyCanvas{
+    background-color:white;
+    border-width:10px;
+    }
+    #Color{
+    width:200px;
+    height:45px;
+    }
+    label{
+    width:70px;
+    height:45px;
+    color:rgb(220, 12, 227);
+    }
